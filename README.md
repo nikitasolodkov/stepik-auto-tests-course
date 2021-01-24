@@ -1,5 +1,4 @@
 # stepik-auto-tests-course
-<<<<<<< HEAD
 selenium python homework
 =======
 Репозиторий для хранения домашних работ по selenium automatization 
